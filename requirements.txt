@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pygame
+cv2
+scipy
+sklearn
+autograd
+pandas
